@@ -26,7 +26,7 @@ const forecastItemsContainer = document.querySelector('.forecast-items-container
 });*/
 
 
-const apiKey = '4dd69089dd75ea545f5e39f7a2048da6'
+const apiKey = '' //your api key
 
 searchBtn.addEventListener('click', () => {
 
